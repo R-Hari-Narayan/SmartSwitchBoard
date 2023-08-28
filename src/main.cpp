@@ -26,10 +26,10 @@
 WiFiClient client;
 HTTPClient http;
 
-const char* ssid = "Airtel_Pushpa";
-const char* password = "Nadar@9899";
+const char* ssid = "YourSSID";
+const char* password = "YourPassword";
 
-String openWeatherAPI= "6e1643cd95fa2684c8663e2d62888fd1";
+String openWeatherAPI= "YourOpenWeatherAPIkey";
 
 String JSON_buffer;
 
